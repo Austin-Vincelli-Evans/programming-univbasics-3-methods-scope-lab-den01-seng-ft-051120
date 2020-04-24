@@ -13,7 +13,7 @@ def link
   puts phrase
   
 def all_phrases
-  mario
-  toadstool
-  link
+  mario()
+  toadstool()
+  link()
 end
