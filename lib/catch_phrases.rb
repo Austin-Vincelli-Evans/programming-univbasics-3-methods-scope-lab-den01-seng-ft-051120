@@ -12,10 +12,5 @@ def link
   phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
   
-def all_phrases
-  p mario
-  p toadstool
-  p link
-end
 
 
